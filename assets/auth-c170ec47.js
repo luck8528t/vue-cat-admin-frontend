@@ -1,1 +1,0 @@
-import{h as o}from"./request-48b3fde4.js";function n(t){return o.post("/auth/login",t)}function s(t){return o.post("/auth/register",t)}function e(t){return o.post("/auth/forgot-password",t)}function i(){return o.get("/role/options")}function u(){return o.get("/auth/user-info")}export{u as a,e as f,i as g,n as l,s as r};
